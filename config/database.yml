@@ -11,7 +11,7 @@
 
 development:
   adapter: postgresql
-  database: agendadev
+  database: agendadevsudo
   pool: 5
   timeout: 5000
 #  <<: *default
